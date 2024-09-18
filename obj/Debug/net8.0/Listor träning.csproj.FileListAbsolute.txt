@@ -1,0 +1,14 @@
+C:\Users\vgrot\Ny mapp (5)\OOP1\Listor träning\bin\Debug\net8.0\Listor träning.exe
+C:\Users\vgrot\Ny mapp (5)\OOP1\Listor träning\bin\Debug\net8.0\Listor träning.deps.json
+C:\Users\vgrot\Ny mapp (5)\OOP1\Listor träning\bin\Debug\net8.0\Listor träning.runtimeconfig.json
+C:\Users\vgrot\Ny mapp (5)\OOP1\Listor träning\bin\Debug\net8.0\Listor träning.dll
+C:\Users\vgrot\Ny mapp (5)\OOP1\Listor träning\bin\Debug\net8.0\Listor träning.pdb
+C:\Users\vgrot\Ny mapp (5)\OOP1\Listor träning\obj\Debug\net8.0\Listor träning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgrot\Ny mapp (5)\OOP1\Listor träning\obj\Debug\net8.0\Listor träning.AssemblyInfoInputs.cache
+C:\Users\vgrot\Ny mapp (5)\OOP1\Listor träning\obj\Debug\net8.0\Listor träning.AssemblyInfo.cs
+C:\Users\vgrot\Ny mapp (5)\OOP1\Listor träning\obj\Debug\net8.0\Listor träning.csproj.CoreCompileInputs.cache
+C:\Users\vgrot\Ny mapp (5)\OOP1\Listor träning\obj\Debug\net8.0\Listor träning.dll
+C:\Users\vgrot\Ny mapp (5)\OOP1\Listor träning\obj\Debug\net8.0\refint\Listor träning.dll
+C:\Users\vgrot\Ny mapp (5)\OOP1\Listor träning\obj\Debug\net8.0\Listor träning.pdb
+C:\Users\vgrot\Ny mapp (5)\OOP1\Listor träning\obj\Debug\net8.0\Listor träning.genruntimeconfig.cache
+C:\Users\vgrot\Ny mapp (5)\OOP1\Listor träning\obj\Debug\net8.0\ref\Listor träning.dll
